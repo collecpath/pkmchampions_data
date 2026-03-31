@@ -1,153 +1,61 @@
 {
   "sets": {
     "Incineroar": [
-      {
-        "name": "Standard Support",
-        "item": "Safety Goggles",
-        "ability": "Intimidate",
-        "nature": "Careful",
-        "moves": ["Fake Out", "Darkest Lariat", "Flare Blitz", "Parting Shot"],
-        "sp": { "hp": 32, "atk": 0, "def": 0, "spa": 0, "spd": 32, "spe": 2 }
-      },
-      {
-        "name": "Assault Vest",
-        "item": "Assault Vest",
-        "ability": "Intimidate",
-        "nature": "Adamant",
-        "moves": ["Fake Out", "Flare Blitz", "Darkest Lariat", "U-turn"],
-        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
-      }
+      { "name": "Standard Support", "item": "Safety Goggles", "ability": "Intimidate", "nature": "Careful", "moves": ["Fake Out","Darkest Lariat","Flare Blitz","Parting Shot"], "sp": { "hp": 32, "atk": 0, "def": 0, "spa": 0, "spd": 32, "spe": 2 } },
+      { "name": "Assault Vest", "item": "Assault Vest", "ability": "Intimidate", "nature": "Adamant", "moves": ["Fake Out","Flare Blitz","Darkest Lariat","U-turn"], "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 } }
     ],
     "Garchomp": [
-      {
-        "name": "Life Orb Attacker",
-        "item": "Life Orb",
-        "ability": "Rough Skin",
-        "nature": "Jolly",
-        "moves": ["Earthquake", "Dragon Claw", "Protect", "Swords Dance"],
-        "sp": { "hp": 0, "atk": 32, "def": 0, "spa": 0, "spd": 2, "spe": 32 }
-      },
-      {
-        "name": "Choice Scarf",
-        "item": "Choice Scarf",
-        "ability": "Rough Skin",
-        "nature": "Adamant",
-        "moves": ["Earthquake", "Dragon Claw", "Rock Slide", "Poison Jab"],
-        "sp": { "hp": 0, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 32 }
-      }
+      { "name": "Life Orb Attacker", "item": "Life Orb", "ability": "Rough Skin", "nature": "Jolly", "moves": ["Earthquake","Dragon Claw","Protect","Swords Dance"], "sp": { "hp": 0, "atk": 32, "def": 0, "spa": 0, "spd": 2, "spe": 32 } },
+      { "name": "Choice Scarf", "item": "Choice Scarf", "ability": "Rough Skin", "nature": "Adamant", "moves": ["Earthquake","Dragon Claw","Rock Slide","Close Combat"], "sp": { "hp": 0, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 32 } }
     ],
-    "Flutter Mane": [
-      {
-        "name": "Booster Energy",
-        "item": "Booster Energy",
-        "ability": "Protosynthesis",
-        "nature": "Timid",
-        "moves": ["Moonblast", "Shadow Ball", "Dazzling Gleam", "Protect"],
-        "sp": { "hp": 0, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 32 }
-      },
-      {
-        "name": "Choice Specs",
-        "item": "Choice Specs",
-        "ability": "Protosynthesis",
-        "nature": "Modest",
-        "moves": ["Moonblast", "Shadow Ball", "Dazzling Gleam", "Psyshock"],
-        "sp": { "hp": 0, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 32 }
-      }
+    "Dragapult": [
+      { "name": "Choice Specs", "item": "Choice Specs", "ability": "Clear Body", "nature": "Timid", "moves": ["Shadow Ball","Draco Meteor","Dragon Darts","Thunderbolt"], "sp": { "hp": 0, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 32 } },
+      { "name": "Physical Attacker", "item": "Life Orb", "ability": "Clear Body", "nature": "Jolly", "moves": ["Dragon Darts","Shadow Claw","Protect","U-turn"], "sp": { "hp": 0, "atk": 32, "def": 0, "spa": 0, "spd": 2, "spe": 32 } }
     ],
-    "Kingambit": [
-      {
-        "name": "Assault Vest",
-        "item": "Assault Vest",
-        "ability": "Supreme Overlord",
-        "nature": "Adamant",
-        "moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave", "Low Kick"],
-        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
-      },
-      {
-        "name": "Black Glasses",
-        "item": "Black Glasses",
-        "ability": "Supreme Overlord",
-        "nature": "Brave",
-        "moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave", "Protect"],
-        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
-      }
+    "Dragonite": [
+      { "name": "Choice Band", "item": "Choice Band", "ability": "Multiscale", "nature": "Adamant", "moves": ["Extreme Speed","Dragon Claw","Earthquake","Close Combat"], "sp": { "hp": 0, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 32 } },
+      { "name": "Bulky DD", "item": "Sitrus Berry", "ability": "Multiscale", "nature": "Jolly", "moves": ["Dragon Claw","Extreme Speed","Dragon Dance","Protect"], "sp": { "hp": 32, "atk": 0, "def": 2, "spa": 0, "spd": 0, "spe": 32 } }
+    ],
+    "Kangaskhan": [
+      { "name": "Mega Support", "item": "Safety Goggles", "ability": "Scrappy", "nature": "Adamant", "moves": ["Fake Out","Sucker Punch","Close Combat","Protect"], "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 } }
+    ],
+    "Tyranitar": [
+      { "name": "Assault Vest", "item": "Assault Vest", "ability": "Sand Stream", "nature": "Adamant", "moves": ["Rock Slide","Crunch","Close Combat","Ice Punch"], "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 } },
+      { "name": "Dragon Dance", "item": "Sitrus Berry", "ability": "Sand Stream", "nature": "Jolly", "moves": ["Rock Slide","Crunch","Dragon Dance","Protect"], "sp": { "hp": 0, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 32 } }
+    ],
+    "Gardevoir": [
+      { "name": "Mega Specs", "item": "Choice Specs", "ability": "Trace", "nature": "Modest", "moves": ["Moonblast","Psychic","Shadow Ball","Trick Room"], "sp": { "hp": 0, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 32 } },
+      { "name": "Trick Room Setter", "item": "Sitrus Berry", "ability": "Trace", "nature": "Quiet", "moves": ["Moonblast","Psychic","Trick Room","Protect"], "sp": { "hp": 32, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 0 } }
+    ],
+    "Hatterene": [
+      { "name": "Trick Room Lead", "item": "Life Orb", "ability": "Magic Bounce", "nature": "Quiet", "moves": ["Psychic","Dazzling Gleam","Trick Room","Protect"], "sp": { "hp": 32, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 0 } }
+    ],
+    "Grimmsnarl": [
+      { "name": "Dual Screens", "item": "Light Clay", "ability": "Prankster", "nature": "Careful", "moves": ["Spirit Break","Thunder Wave","Reflect","Light Screen"], "sp": { "hp": 32, "atk": 0, "def": 0, "spa": 0, "spd": 32, "spe": 2 } }
+    ],
+    "Whimsicott": [
+      { "name": "Tailwind Lead", "item": "Focus Sash", "ability": "Prankster", "nature": "Timid", "moves": ["Tailwind","Moonblast","Encore","Protect"], "sp": { "hp": 0, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 32 } }
+    ],
+    "Meowscarada": [
+      { "name": "Fast Attacker", "item": "Focus Sash", "ability": "Protean", "nature": "Jolly", "moves": ["Flower Trick","Sucker Punch","U-turn","Protect"], "sp": { "hp": 0, "atk": 32, "def": 0, "spa": 0, "spd": 2, "spe": 32 } }
+    ],
+    "Palafin": [
+      { "name": "Hero Form Sweeper", "item": "Mystic Water", "ability": "Zero to Hero", "nature": "Adamant", "moves": ["Jet Punch","Wave Crash","Close Combat","Protect"], "sp": { "hp": 0, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 32 } }
+    ],
+    "Excadrill": [
+      { "name": "Sand Sweeper", "item": "Focus Sash", "ability": "Sand Rush", "nature": "Jolly", "moves": ["Earthquake","Iron Head","Rock Slide","Protect"], "sp": { "hp": 0, "atk": 32, "def": 0, "spa": 0, "spd": 2, "spe": 32 } }
+    ],
+    "Torkoal": [
+      { "name": "Sun Setter", "item": "Charcoal", "ability": "Drought", "nature": "Quiet", "moves": ["Eruption","Heat Wave","Yawn","Protect"], "sp": { "hp": 32, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 0 } }
+    ],
+    "Mimikyu": [
+      { "name": "Trick Room Attacker", "item": "Life Orb", "ability": "Disguise", "nature": "Brave", "moves": ["Play Rough","Shadow Claw","Trick Room","Protect"], "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 } }
+    ],
+    "Oranguru": [
+      { "name": "Trick Room Support", "item": "Sitrus Berry", "ability": "Inner Focus", "nature": "Quiet", "moves": ["Psychic","Trick Room","Instruct","Protect"], "sp": { "hp": 32, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 0 } }
+    ],
+    "Farigiraf": [
+      { "name": "Trick Room Setter", "item": "Leftovers", "ability": "Armor Tail", "nature": "Quiet", "moves": ["Psychic","Hyper Voice","Trick Room","Protect"], "sp": { "hp": 32, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 0 } }
     ]
   }
-=======
-{
-  "sets": {
-    "Incineroar": [
-      {
-        "name": "Standard Support",
-        "item": "Safety Goggles",
-        "ability": "Intimidate",
-        "nature": "Careful",
-        "moves": ["Fake Out", "Darkest Lariat", "Flare Blitz", "Parting Shot"],
-        "sp": { "hp": 32, "atk": 0, "def": 0, "spa": 0, "spd": 32, "spe": 2 }
-      },
-      {
-        "name": "Assault Vest",
-        "item": "Assault Vest",
-        "ability": "Intimidate",
-        "nature": "Adamant",
-        "moves": ["Fake Out", "Flare Blitz", "Darkest Lariat", "U-turn"],
-        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
-      }
-    ],
-    "Garchomp": [
-      {
-        "name": "Life Orb Attacker",
-        "item": "Life Orb",
-        "ability": "Rough Skin",
-        "nature": "Jolly",
-        "moves": ["Earthquake", "Dragon Claw", "Protect", "Swords Dance"],
-        "sp": { "hp": 0, "atk": 32, "def": 0, "spa": 0, "spd": 2, "spe": 32 }
-      },
-      {
-        "name": "Choice Scarf",
-        "item": "Choice Scarf",
-        "ability": "Rough Skin",
-        "nature": "Adamant",
-        "moves": ["Earthquake", "Dragon Claw", "Rock Slide", "Poison Jab"],
-        "sp": { "hp": 0, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 32 }
-      }
-    ],
-    "Flutter Mane": [
-      {
-        "name": "Booster Energy",
-        "item": "Booster Energy",
-        "ability": "Protosynthesis",
-        "nature": "Timid",
-        "moves": ["Moonblast", "Shadow Ball", "Dazzling Gleam", "Protect"],
-        "sp": { "hp": 0, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 32 }
-      },
-      {
-        "name": "Choice Specs",
-        "item": "Choice Specs",
-        "ability": "Protosynthesis",
-        "nature": "Modest",
-        "moves": ["Moonblast", "Shadow Ball", "Dazzling Gleam", "Psyshock"],
-        "sp": { "hp": 0, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 32 }
-      }
-    ],
-    "Kingambit": [
-      {
-        "name": "Assault Vest",
-        "item": "Assault Vest",
-        "ability": "Supreme Overlord",
-        "nature": "Adamant",
-        "moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave", "Low Kick"],
-        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
-      },
-      {
-        "name": "Black Glasses",
-        "item": "Black Glasses",
-        "ability": "Supreme Overlord",
-        "nature": "Brave",
-        "moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave", "Protect"],
-        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
-      }
-    ]
-  }
->>>>>>> eb68f4d1720e4a2dc6a417ba68a83ae66cd26072
 }
