@@ -91,6 +91,14 @@
     "Baneful Bunker": { "power": 0, "type": "Poison", "category": "Status", "accuracy": 100, "effect": "+4 priority. Blocks moves. Contact moves poison the attacker." },
     "Haze": { "power": 0, "type": "Ice", "category": "Status", "accuracy": 100, "effect": "Resets all stat changes for all Pokémon on the field." },
     "Toxic": { "power": 0, "type": "Poison", "category": "Status", "accuracy": 90, "effect": "Badly poisons target. Damage increases each turn." },
-    "Solar Beam": { "power": 120, "type": "Grass", "category": "Special", "accuracy": 100, "effect": "Charges first turn, fires second. Instant in Sun." }
+    "Solar Beam": { "power": 120, "type": "Grass", "category": "Special", "accuracy": 100, "effect": "Charges first turn, fires second. Instant in Sun." },
+    "Ceaseless Edge": { "power": 65, "type": "Dark", "category": "Physical", "accuracy": 90, "effect": "Sets Splintered Stormshards. High critical hit ratio." },
+    "Leaf Blade": { "power": 90, "type": "Grass", "category": "Physical", "accuracy": 100, "effect": "High critical hit ratio." },
+    "Flower Trick": { "power": 70, "type": "Grass", "category": "Physical", "accuracy": 100, "effect": "Never misses. Always critical hit." },
+    "Population Bomb": { "power": 20, "type": "Normal", "category": "Physical", "accuracy": 90, "effect": "Hits 1-10 times." },
+    "Power Whip": { "power": 120, "type": "Grass", "category": "Physical", "accuracy": 85, "effect": "No additional effect." },
+    "Instruct": { "power": 0, "type": "Psychic", "category": "Status", "accuracy": 100, "effect": "Target uses its last move again immediately." },
+    "Heal Pulse": { "power": 0, "type": "Psychic", "category": "Status", "accuracy": 100, "effect": "Heals target by 50% of their max HP." },
+    "Flamethrower": { "power": 90, "type": "Fire", "category": "Special", "accuracy": 100, "effect": "10% chance to burn." }
   }
 }
