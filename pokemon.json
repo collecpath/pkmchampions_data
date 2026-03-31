@@ -1,212 +1,76 @@
 {
   "pokemon": {
-    "Incineroar": {
-      "hp": 95, "atk": 115, "def": 90, "spa": 80, "spd": 90, "spe": 60,
-      "types": ["Fire", "Dark"],
-      "ability": "Intimidate",
-      "moves": ["Fake Out", "Darkest Lariat", "Flare Blitz", "Parting Shot"],
-      "item": "Safety Goggles"
-    },
-    "Garchomp": {
-      "hp": 108, "atk": 130, "def": 95, "spa": 80, "spd": 85, "spe": 102,
-      "types": ["Dragon", "Ground"],
-      "ability": "Rough Skin",
-      "moves": ["Earthquake", "Dragon Claw", "Protect", "Swords Dance"],
-      "item": "Life Orb"
-    },
-    "Dragapult": {
-      "hp": 88, "atk": 120, "def": 75, "spa": 100, "spd": 75, "spe": 142,
-      "types": ["Dragon", "Ghost"],
-      "ability": "Clear Body",
-      "moves": ["Dragon Darts", "Shadow Ball", "Draco Meteor", "Protect"],
-      "item": "Choice Specs"
-    },
-    "Dragonite": {
-      "hp": 91, "atk": 134, "def": 95, "spa": 100, "spd": 100, "spe": 80,
-      "types": ["Dragon", "Flying"],
-      "ability": "Multiscale",
-      "moves": ["Extreme Speed", "Dragon Claw", "Earthquake", "Protect"],
-      "item": "Choice Band",
-      "hasMega": true,
-      "mega": { "hp": 91, "atk": 154, "def": 115, "spa": 120, "spd": 120, "spe": 100, "types": ["Dragon", "Flying"], "ability": "Aerilate" }
-    },
-    "Sylveon": {
-      "hp": 95, "atk": 65, "def": 65, "spa": 110, "spd": 130, "spe": 60,
-      "types": ["Fairy"],
-      "ability": "Pixilate",
-      "moves": ["Hyper Voice", "Moonblast", "Protect", "Helping Hand"],
-      "item": "Throat Spray"
-    },
-    "Gengar": {
-      "hp": 60, "atk": 65, "def": 60, "spa": 130, "spd": 75, "spe": 110,
-      "types": ["Ghost", "Poison"],
-      "ability": "Cursed Body",
-      "moves": ["Shadow Ball", "Sludge Bomb", "Protect", "Trick Room"],
-      "item": "Focus Sash",
-      "hasMega": true,
-      "mega": { "hp": 60, "atk": 65, "def": 80, "spa": 170, "spd": 95, "spe": 130, "types": ["Ghost", "Poison"], "ability": "Shadow Tag" }
-    },
-    "Tyranitar": {
-      "hp": 100, "atk": 134, "def": 110, "spa": 95, "spd": 100, "spe": 61,
-      "types": ["Rock", "Dark"],
-      "ability": "Sand Stream",
-      "moves": ["Rock Slide", "Crunch", "Protect", "Dragon Dance"],
-      "item": "Assault Vest",
-      "hasMega": true,
-      "mega": { "hp": 100, "atk": 164, "def": 150, "spa": 95, "spd": 120, "spe": 71, "types": ["Rock", "Dark"], "ability": "Sand Stream" }
-    },
-    "Metagross": {
-      "hp": 80, "atk": 135, "def": 130, "spa": 95, "spd": 90, "spe": 70,
-      "types": ["Steel", "Psychic"],
-      "ability": "Clear Body",
-      "moves": ["Iron Head", "Zen Headbutt", "Protect", "Ice Punch"],
-      "item": "Assault Vest"
-    },
-    "Whimsicott": {
-      "hp": 60, "atk": 67, "def": 85, "spa": 77, "spd": 75, "spe": 116,
-      "types": ["Grass", "Fairy"],
-      "ability": "Prankster",
-      "moves": ["Tailwind", "Moonblast", "Encore", "Protect"],
-      "item": "Focus Sash"
-    },
-    "Torkoal": {
-      "hp": 70, "atk": 85, "def": 140, "spa": 85, "spd": 70, "spe": 20,
-      "types": ["Fire"],
-      "ability": "Drought",
-      "moves": ["Eruption", "Heat Wave", "Yawn", "Protect"],
-      "item": "Charcoal"
-    },
-    "Pelipper": {
-      "hp": 60, "atk": 50, "def": 100, "spa": 95, "spd": 70, "spe": 65,
-      "types": ["Water", "Flying"],
-      "ability": "Drizzle",
-      "moves": ["Weather Ball", "Hurricane", "Tailwind", "Protect"],
-      "item": "Focus Sash"
-    },
-    "Gyarados": {
-      "hp": 95, "atk": 125, "def": 79, "spa": 60, "spd": 100, "spe": 81,
-      "types": ["Water", "Flying"],
-      "ability": "Intimidate",
-      "moves": ["Waterfall", "Earthquake", "Dragon Dance", "Protect"],
-      "item": "Sitrus Berry"
-    },
-    "Excadrill": {
-      "hp": 110, "atk": 135, "def": 60, "spa": 50, "spd": 65, "spe": 88,
-      "types": ["Ground", "Steel"],
-      "ability": "Sand Rush",
-      "moves": ["Earthquake", "Iron Head", "Rock Slide", "Protect"],
-      "item": "Focus Sash"
-    },
-    "Kingambit": {
-      "hp": 100, "atk": 135, "def": 120, "spa": 60, "spd": 85, "spe": 50,
-      "types": ["Dark", "Steel"],
-      "ability": "Supreme Overlord",
-      "moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave", "Protect"],
-      "item": "Black Glasses"
-    },
-    "Armarouge": {
-      "hp": 85, "atk": 60, "def": 100, "spa": 125, "spd": 80, "spe": 75,
-      "types": ["Fire", "Psychic"],
-      "ability": "Flash Fire",
-      "moves": ["Armor Cannon", "Expanding Force", "Trick Room", "Protect"],
-      "item": "Life Orb"
-    },
-    "Garganacl": {
-      "hp": 100, "atk": 100, "def": 130, "spa": 45, "spd": 90, "spe": 35,
-      "types": ["Rock"],
-      "ability": "Purifying Salt",
-      "moves": ["Salt Cure", "Body Press", "Recover", "Protect"],
-      "item": "Leftovers"
-    },
-    "Hatterene": {
-      "hp": 57, "atk": 90, "def": 95, "spa": 136, "spd": 103, "spe": 29,
-      "types": ["Psychic", "Fairy"],
-      "ability": "Magic Bounce",
-      "moves": ["Psychic", "Dazzling Gleam", "Trick Room", "Protect"],
-      "item": "Life Orb"
-    },
-    "Corviknight": {
-      "hp": 98, "atk": 87, "def": 105, "spa": 53, "spd": 85, "spe": 67,
-      "types": ["Flying", "Steel"],
-      "ability": "Mirror Armor",
-      "moves": ["Brave Bird", "Iron Head", "Tailwind", "Protect"],
-      "item": "Rocky Helmet"
-    },
-    "Feraligatr": {
-      "hp": 85, "atk": 105, "def": 100, "spa": 79, "spd": 83, "spe": 78,
-      "types": ["Water"],
-      "ability": "Sheer Force",
-      "moves": ["Liquidation", "Ice Punch", "Dragon Dance", "Protect"],
-      "item": "Life Orb",
-      "hasMega": true,
-      "mega": { "hp": 85, "atk": 135, "def": 120, "spa": 89, "spd": 103, "spe": 88, "types": ["Water", "Dragon"], "ability": "Dragonize" }
-    },
-    "Charizard": {
-      "hp": 78, "atk": 84, "def": 78, "spa": 109, "spd": 85, "spe": 100,
-      "types": ["Fire", "Flying"],
-      "ability": "Blaze",
-      "moves": ["Heat Wave", "Air Slash", "Protect", "Dragon Pulse"],
-      "item": "Choice Specs",
-      "hasMega": true,
-      "mega": { "hp": 78, "atk": 84, "def": 78, "spa": 159, "spd": 115, "spe": 100, "types": ["Fire", "Flying"], "ability": "Drought" }
-    },
-    "Venusaur": {
-      "hp": 80, "atk": 82, "def": 83, "spa": 100, "spd": 100, "spe": 80,
-      "types": ["Grass", "Poison"],
-      "ability": "Chlorophyll",
-      "moves": ["Giga Drain", "Sludge Bomb", "Sleep Powder", "Protect"],
-      "item": "Life Orb",
-      "hasMega": true,
-      "mega": { "hp": 80, "atk": 100, "def": 123, "spa": 122, "spd": 120, "spe": 80, "types": ["Grass", "Poison"], "ability": "Thick Fat" }
-    },
-    "Amoonguss": {
-      "hp": 114, "atk": 85, "def": 70, "spa": 85, "spd": 80, "spe": 30,
-      "types": ["Grass", "Poison"],
-      "ability": "Regenerator",
-      "moves": ["Spore", "Pollen Puff", "Rage Powder", "Protect"],
-      "item": "Sitrus Berry"
-    },
-    "Grimmsnarl": {
-      "hp": 95, "atk": 120, "def": 65, "spa": 95, "spd": 75, "spe": 60,
-      "types": ["Dark", "Fairy"],
-      "ability": "Prankster",
-      "moves": ["Spirit Break", "Thunder Wave", "Reflect", "Light Screen"],
-      "item": "Light Clay"
-    },
-    "Rillaboom": {
-      "hp": 100, "atk": 125, "def": 90, "spa": 60, "spd": 70, "spe": 85,
-      "types": ["Grass"],
-      "ability": "Grassy Surge",
-      "moves": ["Grassy Glide", "Wood Hammer", "U-turn", "Protect"],
-      "item": "Miracle Seed"
-    },
-    "Flutter Mane": {
-      "hp": 55, "atk": 55, "def": 55, "spa": 135, "spd": 135, "spe": 135,
-      "types": ["Ghost", "Fairy"],
-      "ability": "Protosynthesis",
-      "moves": ["Moonblast", "Shadow Ball", "Dazzling Gleam", "Protect"],
-      "item": "Booster Energy"
-    },
-    "Gholdengo": {
-      "hp": 87, "atk": 60, "def": 95, "spa": 133, "spd": 91, "spe": 84,
-      "types": ["Steel", "Ghost"],
-      "ability": "Good as Gold",
-      "moves": ["Make It Rain", "Shadow Ball", "Trick Room", "Protect"],
-      "item": "Choice Specs"
-    },
-    "Palafin": {
-      "hp": 100, "atk": 160, "def": 97, "spa": 106, "spd": 87, "spe": 100,
-      "types": ["Water"],
-      "ability": "Zero to Hero",
-      "moves": ["Jet Punch", "Wave Crash", "Close Combat", "Protect"],
-      "item": "Mystic Water"
-    },
-    "Annihilape": {
-      "hp": 110, "atk": 115, "def": 80, "spa": 50, "spd": 90, "spe": 90,
-      "types": ["Fighting", "Ghost"],
-      "ability": "Defiant",
-      "moves": ["Rage Fist", "Drain Punch", "Shadow Claw", "Protect"],
-      "item": "Choice Scarf"
-    }
+    "Venusaur": { "hp": 80, "atk": 82, "def": 83, "spa": 100, "spd": 100, "spe": 80, "types": ["Grass","Poison"], "ability": "Chlorophyll", "moves": ["Giga Drain","Sludge Bomb","Sleep Powder","Protect"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 80, "atk": 100, "def": 123, "spa": 122, "spd": 120, "spe": 80, "types": ["Grass","Poison"], "ability": "Thick Fat" } },
+    "Charizard": { "hp": 78, "atk": 84, "def": 78, "spa": 109, "spd": 85, "spe": 100, "types": ["Fire","Flying"], "ability": "Blaze", "moves": ["Heat Wave","Air Slash","Protect","Dragon Pulse"], "item": "Choice Specs", "hasMega": true, "mega": { "hp": 78, "atk": 84, "def": 78, "spa": 159, "spd": 115, "spe": 100, "types": ["Fire","Flying"], "ability": "Drought" } },
+    "Blastoise": { "hp": 79, "atk": 83, "def": 100, "spa": 85, "spd": 105, "spe": 78, "types": ["Water"], "ability": "Torrent", "moves": ["Hydro Pump","Ice Beam","Protect","Flash Cannon"], "item": "Assault Vest", "hasMega": true, "mega": { "hp": 79, "atk": 103, "def": 120, "spa": 135, "spd": 115, "spe": 78, "types": ["Water"], "ability": "Mega Launcher" } },
+    "Beedrill": { "hp": 65, "atk": 90, "def": 40, "spa": 45, "spd": 80, "spe": 75, "types": ["Bug","Poison"], "ability": "Swarm", "moves": ["U-turn","Poison Jab","Drill Run","Protect"], "item": "Focus Sash", "hasMega": true, "mega": { "hp": 65, "atk": 150, "def": 40, "spa": 15, "spd": 80, "spe": 145, "types": ["Bug","Poison"], "ability": "Adaptability" } },
+    "Pidgeot": { "hp": 83, "atk": 80, "def": 75, "spa": 70, "spd": 70, "spe": 101, "types": ["Normal","Flying"], "ability": "Keen Eye", "moves": ["Hurricane","Heat Wave","Protect","U-turn"], "item": "Focus Sash", "hasMega": true, "mega": { "hp": 83, "atk": 80, "def": 80, "spa": 135, "spd": 80, "spe": 121, "types": ["Normal","Flying"], "ability": "No Guard" } },
+    "Pikachu": { "hp": 35, "atk": 55, "def": 40, "spa": 50, "spd": 50, "spe": 90, "types": ["Electric"], "ability": "Static", "moves": ["Fake Out","Volt Tackle","Protect","Thunder Wave"], "item": "Light Ball" },
+    "Alolan Raichu": { "hp": 60, "atk": 85, "def": 50, "spa": 95, "spd": 85, "spe": 110, "types": ["Electric","Psychic"], "ability": "Surge Surfer", "moves": ["Psychic","Thunderbolt","Protect","Fake Out"], "item": "Focus Sash" },
+    "Clefable": { "hp": 95, "atk": 70, "def": 73, "spa": 95, "spd": 90, "spe": 60, "types": ["Fairy"], "ability": "Magic Guard", "moves": ["Moonblast","Follow Me","Protect","Helping Hand"], "item": "Leftovers" },
+    "Alolan Ninetales": { "hp": 73, "atk": 67, "def": 75, "spa": 81, "spd": 100, "spe": 109, "types": ["Ice","Fairy"], "ability": "Snow Warning", "moves": ["Blizzard","Moonblast","Aurora Veil","Protect"], "item": "Light Clay" },
+    "Alakazam": { "hp": 55, "atk": 50, "def": 45, "spa": 135, "spd": 95, "spe": 120, "types": ["Psychic"], "ability": "Magic Guard", "moves": ["Psychic","Shadow Ball","Protect","Trick Room"], "item": "Focus Sash" },
+    "Slowbro": { "hp": 95, "atk": 75, "def": 110, "spa": 100, "spd": 80, "spe": 30, "types": ["Water","Psychic"], "ability": "Regenerator", "moves": ["Psychic","Hydro Pump","Trick Room","Protect"], "item": "Sitrus Berry", "hasMega": true, "mega": { "hp": 95, "atk": 75, "def": 180, "spa": 130, "spd": 80, "spe": 30, "types": ["Water","Psychic"], "ability": "Shell Armor" } },
+    "Gengar": { "hp": 60, "atk": 65, "def": 60, "spa": 130, "spd": 75, "spe": 110, "types": ["Ghost","Poison"], "ability": "Cursed Body", "moves": ["Shadow Ball","Sludge Bomb","Protect","Trick Room"], "item": "Focus Sash", "hasMega": true, "mega": { "hp": 60, "atk": 65, "def": 80, "spa": 170, "spd": 95, "spe": 130, "types": ["Ghost","Poison"], "ability": "Shadow Tag" } },
+    "Kangaskhan": { "hp": 105, "atk": 95, "def": 80, "spa": 40, "spd": 80, "spe": 90, "types": ["Normal"], "ability": "Scrappy", "moves": ["Fake Out","Sucker Punch","Close Combat","Protect"], "item": "Safety Goggles", "hasMega": true, "mega": { "hp": 105, "atk": 125, "def": 100, "spa": 60, "spd": 100, "spe": 100, "types": ["Normal"], "ability": "Parental Bond" } },
+    "Pinsir": { "hp": 65, "atk": 125, "def": 100, "spa": 55, "spd": 70, "spe": 85, "types": ["Bug"], "ability": "Mold Breaker", "moves": ["Close Combat","X-Scissor","Protect","Swords Dance"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 65, "atk": 155, "def": 120, "spa": 65, "spd": 90, "spe": 105, "types": ["Bug","Flying"], "ability": "Aerilate" } },
+    "Gyarados": { "hp": 95, "atk": 125, "def": 79, "spa": 60, "spd": 100, "spe": 81, "types": ["Water","Flying"], "ability": "Intimidate", "moves": ["Waterfall","Earthquake","Dragon Dance","Protect"], "item": "Sitrus Berry" },
+    "Snorlax": { "hp": 160, "atk": 110, "def": 65, "spa": 65, "spd": 110, "spe": 30, "types": ["Normal"], "ability": "Thick Fat", "moves": ["Body Slam","Crunch","Protect","Curse"], "item": "Leftovers" },
+    "Dragonite": { "hp": 91, "atk": 134, "def": 95, "spa": 100, "spd": 100, "spe": 80, "types": ["Dragon","Flying"], "ability": "Multiscale", "moves": ["Extreme Speed","Dragon Claw","Earthquake","Protect"], "item": "Choice Band", "hasMega": true, "mega": { "hp": 91, "atk": 154, "def": 115, "spa": 120, "spd": 120, "spe": 100, "types": ["Dragon","Flying"], "ability": "Aerilate" } },
+    "Meganium": { "hp": 80, "atk": 82, "def": 100, "spa": 83, "spd": 100, "spe": 80, "types": ["Grass"], "ability": "Overgrow", "moves": ["Giga Drain","Protect","Leech Seed","Helping Hand"], "item": "Leftovers", "hasMega": true, "mega": { "hp": 80, "atk": 82, "def": 120, "spa": 113, "spd": 120, "spe": 80, "types": ["Grass","Fairy"], "ability": "Mega Sol" } },
+    "Feraligatr": { "hp": 85, "atk": 105, "def": 100, "spa": 79, "spd": 83, "spe": 78, "types": ["Water"], "ability": "Sheer Force", "moves": ["Liquidation","Ice Punch","Dragon Dance","Protect"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 85, "atk": 135, "def": 120, "spa": 89, "spd": 103, "spe": 88, "types": ["Water","Dragon"], "ability": "Dragonize" } },
+    "Ampharos": { "hp": 90, "atk": 75, "def": 85, "spa": 115, "spd": 90, "spe": 55, "types": ["Electric"], "ability": "Static", "moves": ["Thunderbolt","Dragon Pulse","Protect","Trick Room"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 90, "atk": 95, "def": 105, "spa": 165, "spd": 110, "spe": 45, "types": ["Electric","Dragon"], "ability": "Mold Breaker" } },
+    "Azumarill": { "hp": 100, "atk": 50, "def": 80, "spa": 60, "spd": 80, "spe": 50, "types": ["Water","Fairy"], "ability": "Huge Power", "moves": ["Play Rough","Liquidation","Protect","Helping Hand"], "item": "Sitrus Berry" },
+    "Politoed": { "hp": 90, "atk": 75, "def": 75, "spa": 90, "spd": 100, "spe": 70, "types": ["Water"], "ability": "Drizzle", "moves": ["Hydro Pump","Ice Beam","Helping Hand","Protect"], "item": "Sitrus Berry" },
+    "Scizor": { "hp": 70, "atk": 130, "def": 100, "spa": 55, "spd": 80, "spe": 65, "types": ["Bug","Steel"], "ability": "Technician", "moves": ["Bullet Punch","U-turn","Protect","Swords Dance"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 70, "atk": 150, "def": 140, "spa": 65, "spd": 100, "spe": 75, "types": ["Bug","Steel"], "ability": "Technician" } },
+    "Heracross": { "hp": 80, "atk": 125, "def": 75, "spa": 40, "spd": 95, "spe": 85, "types": ["Bug","Fighting"], "ability": "Guts", "moves": ["Close Combat","Rock Slide","Protect","Swords Dance"], "item": "Flame Orb", "hasMega": true, "mega": { "hp": 80, "atk": 185, "def": 115, "spa": 40, "spd": 105, "spe": 75, "types": ["Bug","Fighting"], "ability": "Skill Link" } },
+    "Skarmory": { "hp": 65, "atk": 80, "def": 140, "spa": 40, "spd": 70, "spe": 70, "types": ["Steel","Flying"], "ability": "Sturdy", "moves": ["Brave Bird","Iron Head","Tailwind","Protect"], "item": "Rocky Helmet" },
+    "Houndoom": { "hp": 75, "atk": 90, "def": 50, "spa": 110, "spd": 80, "spe": 95, "types": ["Dark","Fire"], "ability": "Flash Fire", "moves": ["Dark Pulse","Heat Wave","Protect","Sludge Bomb"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 75, "atk": 90, "def": 90, "spa": 140, "spd": 90, "spe": 115, "types": ["Dark","Fire"], "ability": "Solar Power" } },
+    "Tyranitar": { "hp": 100, "atk": 134, "def": 110, "spa": 95, "spd": 100, "spe": 61, "types": ["Rock","Dark"], "ability": "Sand Stream", "moves": ["Rock Slide","Crunch","Protect","Dragon Dance"], "item": "Assault Vest", "hasMega": true, "mega": { "hp": 100, "atk": 164, "def": 150, "spa": 95, "spd": 120, "spe": 71, "types": ["Rock","Dark"], "ability": "Sand Stream" } },
+    "Pelipper": { "hp": 60, "atk": 50, "def": 100, "spa": 95, "spd": 70, "spe": 65, "types": ["Water","Flying"], "ability": "Drizzle", "moves": ["Weather Ball","Hurricane","Tailwind","Protect"], "item": "Focus Sash" },
+    "Gardevoir": { "hp": 68, "atk": 65, "def": 65, "spa": 125, "spd": 115, "spe": 80, "types": ["Psychic","Fairy"], "ability": "Trace", "moves": ["Moonblast","Psychic","Protect","Trick Room"], "item": "Choice Specs", "hasMega": true, "mega": { "hp": 68, "atk": 85, "def": 65, "spa": 165, "spd": 135, "spe": 100, "types": ["Psychic","Fairy"], "ability": "Pixilate" } },
+    "Aggron": { "hp": 70, "atk": 110, "def": 180, "spa": 60, "spd": 60, "spe": 50, "types": ["Steel","Rock"], "ability": "Rock Head", "moves": ["Iron Head","Rock Slide","Protect","Body Press"], "item": "Assault Vest", "hasMega": true, "mega": { "hp": 70, "atk": 140, "def": 230, "spa": 60, "spd": 80, "spe": 50, "types": ["Steel"], "ability": "Filter" } },
+    "Torkoal": { "hp": 70, "atk": 85, "def": 140, "spa": 85, "spd": 70, "spe": 20, "types": ["Fire"], "ability": "Drought", "moves": ["Eruption","Heat Wave","Yawn","Protect"], "item": "Charcoal" },
+    "Milotic": { "hp": 95, "atk": 60, "def": 79, "spa": 100, "spd": 125, "spe": 81, "types": ["Water"], "ability": "Competitive", "moves": ["Ice Beam","Hydro Pump","Protect","Recover"], "item": "Leftovers" },
+    "Metagross": { "hp": 80, "atk": 135, "def": 130, "spa": 95, "spd": 90, "spe": 70, "types": ["Steel","Psychic"], "ability": "Clear Body", "moves": ["Iron Head","Zen Headbutt","Protect","Ice Punch"], "item": "Assault Vest" },
+    "Garchomp": { "hp": 108, "atk": 130, "def": 95, "spa": 80, "spd": 85, "spe": 102, "types": ["Dragon","Ground"], "ability": "Rough Skin", "moves": ["Earthquake","Dragon Claw","Protect","Swords Dance"], "item": "Life Orb" },
+    "Lucario": { "hp": 70, "atk": 110, "def": 70, "spa": 115, "spd": 70, "spe": 90, "types": ["Fighting","Steel"], "ability": "Inner Focus", "moves": ["Close Combat","Bullet Punch","Protect","Swords Dance"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 70, "atk": 145, "def": 88, "spa": 140, "spd": 70, "spe": 112, "types": ["Fighting","Steel"], "ability": "Adaptability" } },
+    "Hippowdon": { "hp": 108, "atk": 112, "def": 118, "spa": 68, "spd": 72, "spe": 47, "types": ["Ground"], "ability": "Sand Stream", "moves": ["Earthquake","Rock Slide","Protect","Yawn"], "item": "Leftovers" },
+    "Rhyperior": { "hp": 115, "atk": 140, "def": 130, "spa": 55, "spd": 55, "spe": 40, "types": ["Ground","Rock"], "ability": "Solid Rock", "moves": ["Earthquake","Rock Slide","Protect","Ice Punch"], "item": "Assault Vest" },
+    "Gliscor": { "hp": 75, "atk": 95, "def": 125, "spa": 45, "spd": 75, "spe": 95, "types": ["Ground","Flying"], "ability": "Poison Heal", "moves": ["Earthquake","U-turn","Protect","Swords Dance"], "item": "Toxic Orb" },
+    "Mamoswine": { "hp": 110, "atk": 130, "def": 80, "spa": 70, "spd": 60, "spe": 80, "types": ["Ice","Ground"], "ability": "Thick Fat", "moves": ["Earthquake","Ice Shard","Protect","Icicle Crash"], "item": "Life Orb" },
+    "Gallade": { "hp": 68, "atk": 125, "def": 65, "spa": 65, "spd": 115, "spe": 80, "types": ["Psychic","Fighting"], "ability": "Justified", "moves": ["Close Combat","Psycho Cut","Protect","Swords Dance"], "item": "Life Orb" },
+    "Froslass": { "hp": 70, "atk": 80, "def": 70, "spa": 80, "spd": 70, "spe": 110, "types": ["Ice","Ghost"], "ability": "Cursed Body", "moves": ["Blizzard","Shadow Ball","Icy Wind","Protect"], "item": "Focus Sash", "hasMega": true, "mega": { "hp": 70, "atk": 80, "def": 90, "spa": 120, "spd": 90, "spe": 130, "types": ["Ice","Ghost"], "ability": "Snow Warning" } },
+    "Rotom": { "hp": 50, "atk": 50, "def": 77, "spa": 95, "spd": 77, "spe": 91, "types": ["Electric","Ghost"], "ability": "Levitate", "moves": ["Thunderbolt","Shadow Ball","Protect","Thunder Wave"], "item": "Sitrus Berry" },
+    "Emboar": { "hp": 110, "atk": 123, "def": 65, "spa": 100, "spd": 65, "spe": 65, "types": ["Fire","Fighting"], "ability": "Blaze", "moves": ["Flare Blitz","Close Combat","Protect","Wild Charge"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 110, "atk": 158, "def": 85, "spa": 110, "spd": 85, "spe": 67, "types": ["Fire","Fighting"], "ability": "Mold Breaker" } },
+    "Excadrill": { "hp": 110, "atk": 135, "def": 60, "spa": 50, "spd": 65, "spe": 88, "types": ["Ground","Steel"], "ability": "Sand Rush", "moves": ["Earthquake","Iron Head","Rock Slide","Protect"], "item": "Focus Sash" },
+    "Conkeldurr": { "hp": 105, "atk": 140, "def": 95, "spa": 55, "spd": 65, "spe": 45, "types": ["Fighting"], "ability": "Guts", "moves": ["Drain Punch","Rock Slide","Protect","Mach Punch"], "item": "Assault Vest" },
+    "Whimsicott": { "hp": 60, "atk": 67, "def": 85, "spa": 77, "spd": 75, "spe": 116, "types": ["Grass","Fairy"], "ability": "Prankster", "moves": ["Tailwind","Moonblast","Encore","Protect"], "item": "Focus Sash" },
+    "Krookodile": { "hp": 95, "atk": 117, "def": 80, "spa": 65, "spd": 70, "spe": 92, "types": ["Ground","Dark"], "ability": "Intimidate", "moves": ["Earthquake","Crunch","Protect","Close Combat"], "item": "Choice Scarf" },
+    "Hydreigon": { "hp": 92, "atk": 105, "def": 90, "spa": 125, "spd": 90, "spe": 98, "types": ["Dark","Dragon"], "ability": "Levitate", "moves": ["Dark Pulse","Draco Meteor","Protect","Flash Cannon"], "item": "Life Orb" },
+    "Greninja": { "hp": 72, "atk": 95, "def": 67, "spa": 103, "spd": 71, "spe": 122, "types": ["Water","Dark"], "ability": "Protean", "moves": ["Hydro Pump","Dark Pulse","Ice Beam","Protect"], "item": "Life Orb", "hasMega": true, "mega": { "hp": 72, "atk": 110, "def": 82, "spa": 148, "spd": 81, "spe": 132, "types": ["Water","Dark"], "ability": "Battle Bond" } },
+    "Talonflame": { "hp": 78, "atk": 81, "def": 71, "spa": 74, "spd": 69, "spe": 126, "types": ["Fire","Flying"], "ability": "Gale Wings", "moves": ["Brave Bird","Flare Blitz","Tailwind","Protect"], "item": "Sharp Beak" },
+    "Aegislash": { "hp": 60, "atk": 50, "def": 140, "spa": 50, "spd": 140, "spe": 60, "types": ["Steel","Ghost"], "ability": "Stance Change", "moves": ["Shadow Ball","Flash Cannon","Protect","Shadow Sneak"], "item": "Leftovers" },
+    "Sylveon": { "hp": 95, "atk": 65, "def": 65, "spa": 110, "spd": 130, "spe": 60, "types": ["Fairy"], "ability": "Pixilate", "moves": ["Hyper Voice","Moonblast","Protect","Helping Hand"], "item": "Throat Spray" },
+    "Goodra": { "hp": 90, "atk": 100, "def": 70, "spa": 110, "spd": 150, "spe": 80, "types": ["Dragon"], "ability": "Sap Sipper", "moves": ["Dragon Pulse","Hydro Pump","Protect","Ice Beam"], "item": "Assault Vest" },
+    "Noivern": { "hp": 85, "atk": 70, "def": 80, "spa": 97, "spd": 80, "spe": 123, "types": ["Flying","Dragon"], "ability": "Infiltrator", "moves": ["Draco Meteor","Hurricane","Protect","Tailwind"], "item": "Life Orb" },
+    "Incineroar": { "hp": 95, "atk": 115, "def": 90, "spa": 80, "spd": 90, "spe": 60, "types": ["Fire","Dark"], "ability": "Intimidate", "moves": ["Fake Out","Darkest Lariat","Flare Blitz","Parting Shot"], "item": "Safety Goggles" },
+    "Toxapex": { "hp": 50, "atk": 63, "def": 152, "spa": 53, "spd": 142, "spe": 35, "types": ["Poison","Water"], "ability": "Regenerator", "moves": ["Baneful Bunker","Recover","Haze","Toxic"], "item": "Leftovers" },
+    "Mimikyu": { "hp": 55, "atk": 90, "def": 80, "spa": 50, "spd": 105, "spe": 96, "types": ["Ghost","Fairy"], "ability": "Disguise", "moves": ["Play Rough","Shadow Claw","Protect","Trick Room"], "item": "Life Orb" },
+    "Kommo-o": { "hp": 75, "atk": 110, "def": 125, "spa": 100, "spd": 105, "spe": 85, "types": ["Dragon","Fighting"], "ability": "Bulletproof", "moves": ["Close Combat","Dragon Claw","Protect","Dragon Dance"], "item": "Assault Vest" },
+    "Corviknight": { "hp": 98, "atk": 87, "def": 105, "spa": 53, "spd": 85, "spe": 67, "types": ["Flying","Steel"], "ability": "Mirror Armor", "moves": ["Brave Bird","Iron Head","Tailwind","Protect"], "item": "Rocky Helmet" },
+    "Grimmsnarl": { "hp": 95, "atk": 120, "def": 65, "spa": 95, "spd": 75, "spe": 60, "types": ["Dark","Fairy"], "ability": "Prankster", "moves": ["Spirit Break","Thunder Wave","Reflect","Light Screen"], "item": "Light Clay" },
+    "Hatterene": { "hp": 57, "atk": 90, "def": 95, "spa": 136, "spd": 103, "spe": 29, "types": ["Psychic","Fairy"], "ability": "Magic Bounce", "moves": ["Psychic","Dazzling Gleam","Trick Room","Protect"], "item": "Life Orb" },
+    "Dragapult": { "hp": 88, "atk": 120, "def": 75, "spa": 100, "spd": 75, "spe": 142, "types": ["Dragon","Ghost"], "ability": "Clear Body", "moves": ["Dragon Darts","Shadow Ball","Draco Meteor","Protect"], "item": "Choice Specs" },
+    "Rillaboom": { "hp": 100, "atk": 125, "def": 90, "spa": 60, "spd": 70, "spe": 85, "types": ["Grass"], "ability": "Grassy Surge", "moves": ["Grassy Glide","Wood Hammer","U-turn","Protect"], "item": "Miracle Seed" },
+    "Palafin": { "hp": 100, "atk": 160, "def": 97, "spa": 106, "spd": 87, "spe": 100, "types": ["Water"], "ability": "Zero to Hero", "moves": ["Jet Punch","Wave Crash","Close Combat","Protect"], "item": "Mystic Water" },
+    "Garganacl": { "hp": 100, "atk": 100, "def": 130, "spa": 45, "spd": 90, "spe": 35, "types": ["Rock"], "ability": "Purifying Salt", "moves": ["Salt Cure","Body Press","Recover","Protect"], "item": "Leftovers" },
+    "Armarouge": { "hp": 85, "atk": 60, "def": 100, "spa": 125, "spd": 80, "spe": 75, "types": ["Fire","Psychic"], "ability": "Flash Fire", "moves": ["Armor Cannon","Expanding Force","Trick Room","Protect"], "item": "Life Orb" },
+    "Tinkaton": { "hp": 85, "atk": 75, "def": 77, "spa": 70, "spd": 105, "spe": 94, "types": ["Fairy","Steel"], "ability": "Mold Breaker", "moves": ["Play Rough","Iron Head","Protect","Fake Out"], "item": "Assault Vest" },
+    "Dondozo": { "hp": 150, "atk": 100, "def": 115, "spa": 65, "spd": 65, "spe": 35, "types": ["Water"], "ability": "Unaware", "moves": ["Waterfall","Earthquake","Protect","Yawn"], "item": "Leftovers" },
+    "Archaludon": { "hp": 90, "atk": 105, "def": 130, "spa": 125, "spd": 65, "spe": 85, "types": ["Steel","Dragon"], "ability": "Stamina", "moves": ["Flash Cannon","Dragon Pulse","Protect","Body Press"], "item": "Assault Vest" },
+    "Hydrapple": { "hp": 106, "atk": 80, "def": 110, "spa": 120, "spd": 80, "spe": 44, "types": ["Grass","Dragon"], "ability": "Regenerator", "moves": ["Dragon Pulse","Giga Drain","Protect","Trick Room"], "item": "Leftovers" },
+    "Empoleon": { "hp": 84, "atk": 86, "def": 88, "spa": 111, "spd": 101, "spe": 60, "types": ["Water","Steel"], "ability": "Torrent", "moves": ["Flash Cannon","Hydro Pump","Ice Beam","Protect"], "item": "Assault Vest" },
+    "Spiritomb": { "hp": 50, "atk": 92, "def": 108, "spa": 92, "spd": 108, "spe": 35, "types": ["Dark","Ghost"], "ability": "Pressure", "moves": ["Dark Pulse","Shadow Ball","Protect","Trick Room"], "item": "Leftovers" }
   }
 }
