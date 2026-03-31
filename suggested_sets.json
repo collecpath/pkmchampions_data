@@ -1,0 +1,76 @@
+{
+  "sets": {
+    "Incineroar": [
+      {
+        "name": "Standard Support",
+        "item": "Safety Goggles",
+        "ability": "Intimidate",
+        "nature": "Careful",
+        "moves": ["Fake Out", "Darkest Lariat", "Flare Blitz", "Parting Shot"],
+        "sp": { "hp": 32, "atk": 0, "def": 0, "spa": 0, "spd": 32, "spe": 2 }
+      },
+      {
+        "name": "Assault Vest",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "nature": "Adamant",
+        "moves": ["Fake Out", "Flare Blitz", "Darkest Lariat", "U-turn"],
+        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
+      }
+    ],
+    "Garchomp": [
+      {
+        "name": "Life Orb Attacker",
+        "item": "Life Orb",
+        "ability": "Rough Skin",
+        "nature": "Jolly",
+        "moves": ["Earthquake", "Dragon Claw", "Protect", "Swords Dance"],
+        "sp": { "hp": 0, "atk": 32, "def": 0, "spa": 0, "spd": 2, "spe": 32 }
+      },
+      {
+        "name": "Choice Scarf",
+        "item": "Choice Scarf",
+        "ability": "Rough Skin",
+        "nature": "Adamant",
+        "moves": ["Earthquake", "Dragon Claw", "Rock Slide", "Poison Jab"],
+        "sp": { "hp": 0, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 32 }
+      }
+    ],
+    "Flutter Mane": [
+      {
+        "name": "Booster Energy",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "nature": "Timid",
+        "moves": ["Moonblast", "Shadow Ball", "Dazzling Gleam", "Protect"],
+        "sp": { "hp": 0, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 32 }
+      },
+      {
+        "name": "Choice Specs",
+        "item": "Choice Specs",
+        "ability": "Protosynthesis",
+        "nature": "Modest",
+        "moves": ["Moonblast", "Shadow Ball", "Dazzling Gleam", "Psyshock"],
+        "sp": { "hp": 0, "atk": 0, "def": 2, "spa": 32, "spd": 0, "spe": 32 }
+      }
+    ],
+    "Kingambit": [
+      {
+        "name": "Assault Vest",
+        "item": "Assault Vest",
+        "ability": "Supreme Overlord",
+        "nature": "Adamant",
+        "moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave", "Low Kick"],
+        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
+      },
+      {
+        "name": "Black Glasses",
+        "item": "Black Glasses",
+        "ability": "Supreme Overlord",
+        "nature": "Brave",
+        "moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave", "Protect"],
+        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
+      }
+    ]
+  }
+}
