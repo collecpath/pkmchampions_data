@@ -18,6 +18,14 @@
         "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
       },
       {
+        "name": "AV Bulldoze",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "nature": "Adamant",
+        "moves": ["Fake Out", "Flare Blitz", "U-turn", "Bulldoze"],
+        "sp": { "hp": 32, "atk": 32, "def": 2, "spa": 0, "spd": 0, "spe": 0 }
+      },
+      {
         "name": "Rocky Helmet Pivot",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
@@ -160,7 +168,15 @@
         "nature": "Modest",
         "moves": ["Protect", "Draco Meteor", "Hurricane", "Tailwind"],
         "sp": { "hp": 63, "atk": 0, "def": 0, "spa": 63, "spd": 0, "spe": 1 }
-      }
+      },
+      {
+        "name": "Mega Special Attacker",
+        "item": "Dragoninite",
+        "ability": "Multiscale",
+        "nature": "Modest",
+        "moves": ["Heat Wave", "Dragon Pulse", "Air Slash", "Protect"],
+        "sp": { "hp": 0, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 32 }
+      },
     ],
     "Archaludon": [
       {
@@ -199,6 +215,14 @@
         "ability": "Earth Eater",
         "nature": "Impish",
         "moves": ["Protect", "Heavy Slam", "Body Press", "Shed Tail"],
+        "sp": { "hp": 61, "atk": 0, "def": 9, "spa": 0, "spd": 57, "spe": 0 }
+      },
+      {
+        "name": "Sitrus Shed Tail",
+        "item": "Sitrus Berry",
+        "ability": "Earth Eater",
+        "nature": "Impish",
+        "moves": ["Heavy Slam", "Body Press", "Shed Tail", "Protect"],
         "sp": { "hp": 61, "atk": 0, "def": 9, "spa": 0, "spd": 57, "spe": 0 }
       }
     ],
@@ -518,7 +542,26 @@
         "sp": { "hp": 45, "atk": 63, "def": 1, "spa": 0, "spd": 2, "spe": 17 }
       }
     ],
-    "Klefki": [
+    "Sylveon": [
+      {
+        "name": "Throat Spray Pixilate",
+        "item": "Throat Spray",
+        "ability": "Pixilate",
+        "nature": "Modest",
+        "moves": ["Hyper Voice", "Hyper Beam", "Quick Attack", "Protect"],
+        "sp": { "hp": 0, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 32 }
+      }
+    ],
+    "Oranguru": [
+      {
+        "name": "Mental Herb TR Support",
+        "item": "Mental Herb",
+        "ability": "Telepathy",
+        "nature": "Quiet",
+        "moves": ["Trick Room", "Instruct", "Thunderbolt", "Protect"],
+        "sp": { "hp": 32, "atk": 0, "def": 2, "spa": 0, "spd": 32, "spe": 0 }
+      }
+    ],
       {
         "name": "Screens Support",
         "item": "Light Clay",
