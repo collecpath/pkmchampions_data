@@ -176,7 +176,7 @@
         "nature": "Modest",
         "moves": ["Heat Wave", "Dragon Pulse", "Air Slash", "Protect"],
         "sp": { "hp": 0, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 32 }
-      },
+      }
     ],
     "Archaludon": [
       {
@@ -562,6 +562,7 @@
         "sp": { "hp": 32, "atk": 0, "def": 2, "spa": 0, "spd": 32, "spe": 0 }
       }
     ],
+    "Klefki": [
       {
         "name": "Screens Support",
         "item": "Light Clay",
