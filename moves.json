@@ -1,4 +1,4 @@
-{
+{ "moves": {
   "Will-O-Wisp":      {"power":0,"type":"Fire","category":"Status","accuracy":85,"effect":"Burns the target."},
   "Overheat":         {"power":130,"type":"Fire","category":"Special","accuracy":90,"effect":"Lowers user's SpA by 2 after use."},
   "Volt Switch":      {"power":70,"type":"Electric","category":"Special","accuracy":100,"effect":"User switches out after attacking."},
@@ -66,4 +66,4 @@
   "Hurricane":        {"power":110,"type":"Flying","category":"Special","accuracy":70,"effect":"30% confusion. Perfect accuracy in Rain."},
   "Air Slash":        {"power":75,"type":"Flying","category":"Special","accuracy":95,"effect":"30% flinch chance."},
   "Dragon Pulse":     {"power":85,"type":"Dragon","category":"Special","accuracy":100,"effect":"No additional effect."}
-}
+}}
