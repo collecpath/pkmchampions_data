@@ -1,19 +1,19 @@
 {
   "featured_teams": [
     {
-      "id": "rain-offense-1",
-      "title": "Pelipper + Palafin Rain Offense",
-      "description": "Fast rain core with Palafin-Hero sweeping after a Flip Turn transform.",
-      "creator": "WolfeyVGC",
-      "youtube_url": "https://www.youtube.com/watch?v=EXAMPLE1",
-      "youtube_id": "EXAMPLE1",
+      "id": "",
+      "title": "Mega Gengar + Disable",
+      "description": "",
+      "creator": "PokeAlex",
+      "youtube_url": "https://www.youtube.com/watch?v=PdR1AIN4cNw",
+      "youtube_id": "PdR1AIN4cNw",
       "pokemon": [
-        {"name":"Pelipper","item":"Focus Sash","ability":"Drizzle","nature":"Modest","teraType":"Water","moves":["Weather Ball","Hurricane","Tailwind","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":32,"spd":2,"spe":0}},
-        {"name":"Palafin-Hero","item":"Mystic Water","ability":"Zero to Hero","nature":"Adamant","teraType":"Water","moves":["Jet Punch","Wave Crash","Close Combat","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}},
-        {"name":"Kingambit","item":"Assault Vest","ability":"Defiant","nature":"Adamant","teraType":"Dark","moves":["Kowtow Cleave","Sucker Punch","Iron Head","Low Kick"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}},
-        {"name":"Incineroar","item":"Safety Goggles","ability":"Intimidate","nature":"Careful","teraType":"Ghost","moves":["Fake Out","Darkest Lariat","Flare Blitz","Parting Shot"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}},
-        {"name":"Whimsicott","item":"Focus Sash","ability":"Prankster","nature":"Timid","teraType":"Fairy","moves":["Tailwind","Moonblast","Encore","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
-        {"name":"Garchomp","item":"Life Orb","ability":"Rough Skin","nature":"Jolly","teraType":"Ground","moves":["Earthquake","Dragon Claw","Protect","Swords Dance"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
+        {"name":"Gengar","item":"Gengarite","ability":"Shadow Tag","nature":"Timid","teraType":"Ghost","moves":["Shadow Ball","Disable","Sludge Bomb","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+        {"name":"Politoed","item":"Choice Specs","ability":"Drizzle","nature":"Modest","teraType":"Water","moves":["Muddy Water","Perish Song","Ice Beam","Weather Ball"],"sp":{"hp":2,"atk":0,"def":0,"spa":32,"spd":0,"spe":32}},
+        {"name":"Dragonite","item":"Loaded Dice","ability":"Multiscale","nature":"Adamant","teraType":"Dragon","moves":["Protect","Scale Shot","Encore","Extreme Speed"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}},
+        {"name":"Incineroar","item":"Sitrus Berry","ability":"Intimidate","nature":"Adamant","teraType":"Fire","moves":["Fake Out","Parting Shot","Throat Chop","Flare Blitz"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":0,"spe":2}},
+        {"name":"Whimsicott","item":"Covert Cloak","ability":"Prankster","nature":"Bold","teraType":"Grass","moves":["Tailwind","Moonblast","Encore","Fake Tears"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}},
+        {"name":"Sneasler","item":"Focus Sash","ability":"Unburden","nature":"Adamant","teraType":"Fighting","moves":["Close Combat","Dire Claw","Protect","Fake Out"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
       ]
     }
   ]
