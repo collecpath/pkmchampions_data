@@ -126,7 +126,6 @@
 "Pikachu":{"hp":35,"atk":55,"def":40,"spa":50,"spd":50,"spe":90,"types":["Electric"],"ability":"Static","moves":["Fake Out","Volt Tackle","Protect","Thunder Wave"],"item":"Light Ball"},
 "Pinsir":{"hp":65,"atk":125,"def":100,"spa":55,"spd":70,"spe":85,"types":["Bug"],"ability":"Mold Breaker","moves":["Close Combat","X-Scissor","Protect","Swords Dance"],"item":"SilverPowder","hasMega":true,"mega":{"hp":65,"atk":155,"def":120,"spa":65,"spd":90,"spe":105,"types":["Bug","Flying"],"ability":"Aerilate"}},
 "Politoed":{"hp":90,"atk":75,"def":75,"spa":90,"spd":100,"spe":70,"types":["Water"],"ability":"Drizzle","moves":["Hydro Pump","Ice Beam","Helping Hand","Protect"],"item":"Sitrus Berry"},
-"Polteageist":{"hp":60,"atk":65,"def":65,"spa":134,"spd":114,"spe":70,"types":["Ghost"],"ability":"Weak Armor","moves":["Shadow Ball","Giga Drain","Shell Smash","Protect"],"item":"Focus Sash"},
 "Primarina":{"hp":80,"atk":74,"def":74,"spa":126,"spd":116,"spe":60,"types":["Water","Fairy"],"ability":"Liquid Voice","moves":["Hyper Voice","Moonblast","Haze","Protect"],"item":"Fairy Feather"},
 "Quaquaval":{"hp":85,"atk":120,"def":80,"spa":85,"spd":75,"spe":85,"types":["Water","Fighting"],"ability":"Moxie","moves":["Close Combat","Liquidation","Aqua Step","Protect"],"item":"Mystic Water"},
 "Raichu":{"hp":60,"atk":90,"def":55,"spa":90,"spd":80,"spe":110,"types":["Electric"],"ability":"Lightning Rod","moves":["Fake Out","Thunderbolt","Helping Hand","Protect"],"item":"Focus Sash"},
