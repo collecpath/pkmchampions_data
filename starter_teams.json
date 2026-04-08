@@ -1,0 +1,68 @@
+{
+  "starter_teams": [
+    {
+      "id": "rain-dragonite",
+      "name": "Rain Dragonite",
+      "archetype": "Rain",
+      "difficulty": "Intermediate",
+      "description": "Rain team with Mega Dragonite. Pelipper sets rain and Tailwind, Palafin hits hard after transforming, Sinistcha provides healing support.",
+      "description_es": "Equipo de lluvia con Mega Dragonite. Pelipper activa la lluvia y Viento Afín, Palafin pega fuerte tras transformarse, Sinistcha da soporte curativo.",
+      "pokemon": [
+        {"name":"Dragonite","item":"Dragoninite","ability":"Multiscale","nature":"Modest","moves":["Draco Meteor","Hurricane","Thunder","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+        {"name":"Klefki","item":"Light Clay","ability":"Prankster","nature":"Bold","moves":["Thunder Wave","Dazzling Gleam","Reflect","Light Screen"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}},
+        {"name":"Palafin","item":"Mystic Water","ability":"Zero to Hero","nature":"Adamant","moves":["Jet Punch","Wave Crash","Bulk Up","Protect"],"sp":{"hp":32,"atk":32,"def":0,"spa":0,"spd":0,"spe":2}},
+        {"name":"Pelipper","item":"Focus Sash","ability":"Drizzle","nature":"Modest","moves":["Weather Ball","Hurricane","Tailwind","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+        {"name":"Incineroar","item":"Sitrus Berry","ability":"Intimidate","nature":"Impish","moves":["Fake Out","Throat Chop","Flare Blitz","Parting Shot"],"sp":{"hp":0,"atk":32,"def":32,"spa":0,"spd":2,"spe":0}},
+        {"name":"Sinistcha","item":"Leftovers","ability":"Hospitality","nature":"Modest","moves":["Shadow Ball","Matcha Gotcha","Protect","Calm Mind"],"sp":{"hp":0,"atk":0,"def":32,"spa":32,"spd":2,"spe":0}}
+      ]
+    },
+    {
+      "id": "sun-charizard",
+      "name": "Sun Charizard Y",
+      "archetype": "Sun",
+      "difficulty": "Beginner",
+      "description": "Classic sun team. Mega Charizard Y sets sun, Venusaur sweeps with Chlorophyll. Gardevoir with Telepathy is immune to Garchomp's Earthquake. Milotic punishes Intimidate with Competitive.",
+      "description_es": "Equipo de sol clásico. Mega Charizard Y activa el sol, Venusaur barre con Clorofila. Gardevoir con Telepatía es inmune al Terremoto de Garchomp. Milotic castiga Intimidación con Tenacidad.",
+      "pokemon": [
+        {"name":"Charizard","item":"Charizardite Y","ability":"Solar Power","nature":"Timid","moves":["Heat Wave","Overheat","Solar Beam","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+        {"name":"Venusaur","item":"Focus Sash","ability":"Chlorophyll","nature":"Timid","moves":["Leaf Storm","Sludge Bomb","Sleep Powder","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+        {"name":"Garchomp","item":"Lum Berry","ability":"Rough Skin","nature":"Jolly","moves":["Earthquake","Dragon Claw","Swords Dance","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}},
+        {"name":"Milotic","item":"Leftovers","ability":"Competitive","nature":"Bold","moves":["Ice Beam","Scald","Icy Wind","Protect"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}},
+        {"name":"Gardevoir","item":"Choice Scarf","ability":"Telepathy","nature":"Timid","moves":["Moonblast","Psyshock","Dazzling Gleam","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+        {"name":"Incineroar","item":"Sitrus Berry","ability":"Intimidate","nature":"Careful","moves":["Fake Out","Parting Shot","Flare Blitz","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}}
+      ]
+    },
+    {
+      "id": "tr-mr-rime",
+      "name": "Trick Room Mr. Rime",
+      "archetype": "Trick Room",
+      "difficulty": "Intermediate",
+      "description": "Trick Room team with double setters. Mr. Rime leads with Fake Out support while Hatterene sets TR safely. Torkoal's Eruption and Araquanid's Liquidation deal massive damage under TR. Goodra tanks special hits.",
+      "description_es": "Equipo de Espacio Raro con doble setter. Mr. Rime lidera con Sorpresa mientras Hatterene activa TR de forma segura. Erupción de Torkoal y Hidroariete de Araquanid hacen daño masivo bajo TR. Goodra aguanta ataques especiales.",
+      "pokemon": [
+        {"name":"Mr. Rime","item":"Never-Melt Ice","ability":"Screen Cleaner","nature":"Quiet","moves":["Psychic","Freeze-Dry","Fake Out","Trick Room"],"sp":{"hp":32,"atk":0,"def":0,"spa":32,"spd":2,"spe":0}},
+        {"name":"Hatterene","item":"Twisted Spoon","ability":"Magic Bounce","nature":"Quiet","moves":["Psychic","Dazzling Gleam","Trick Room","Protect"],"sp":{"hp":32,"atk":0,"def":2,"spa":32,"spd":0,"spe":0}},
+        {"name":"Araquanid","item":"Mystic Water","ability":"Water Bubble","nature":"Brave","moves":["Liquidation","Leech Life","Wide Guard","Protect"],"sp":{"hp":32,"atk":32,"def":0,"spa":0,"spd":2,"spe":0}},
+        {"name":"Torkoal","item":"Charcoal","ability":"Drought","nature":"Quiet","moves":["Eruption","Heat Wave","Earth Power","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":32,"spd":2,"spe":0}},
+        {"name":"Incineroar","item":"Sitrus Berry","ability":"Intimidate","nature":"Careful","moves":["Fake Out","Darkest Lariat","Flare Blitz","Parting Shot"],"sp":{"hp":32,"atk":0,"def":2,"spa":0,"spd":32,"spe":0}},
+        {"name":"Goodra","item":"Dragon Fang","ability":"Sap Sipper","nature":"Quiet","moves":["Dragon Pulse","Hydro Pump","Ice Beam","Protect"],"sp":{"hp":32,"atk":0,"def":2,"spa":32,"spd":0,"spe":0}}
+      ]
+    },
+    {
+      "id": "perish-trap",
+      "name": "Perish Trap Gengar",
+      "archetype": "Perish Trap",
+      "difficulty": "Advanced",
+      "description": "Mega Gengar traps opponents with Shadow Tag + Perish Song. Politoed adds rain + a second Perish Song. Vivillon redirects with Rage Powder and puts threats to sleep. Basculegion cleans up with Last Respects powered by fallen allies.",
+      "description_es": "Mega Gengar atrapa rivales con Sombra Trampa + Canto Mortal. Politoed añade lluvia + un segundo Canto Mortal. Vivillon redirige con Polvo Ira y duerme amenazas. Basculegion limpia con Homenaje Póstumo potenciado por aliados caídos.",
+      "pokemon": [
+        {"name":"Kingambit","item":"Safety Goggles","ability":"Defiant","nature":"Adamant","moves":["Kowtow Cleave","Sucker Punch","Swords Dance","Protect"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}},
+        {"name":"Gengar","item":"Gengarite","ability":"Cursed Body","nature":"Timid","moves":["Shadow Ball","Disable","Protect","Perish Song"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+        {"name":"Vivillon","item":"Focus Band","ability":"Compound Eyes","nature":"Bold","moves":["Sleep Powder","Hurricane","Rage Powder","Protect"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}},
+        {"name":"Politoed","item":"Leftovers","ability":"Drizzle","nature":"Bold","moves":["Weather Ball","Encore","Protect","Perish Song"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}},
+        {"name":"Incineroar","item":"Sitrus Berry","ability":"Intimidate","nature":"Careful","moves":["Fake Out","Parting Shot","Throat Chop","Protect"],"sp":{"hp":32,"atk":0,"def":2,"spa":0,"spd":32,"spe":0}},
+        {"name":"Basculegion","item":"Mystic Water","ability":"Swift Swim","nature":"Adamant","moves":["Last Respects","Wave Crash","Aqua Jet","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
+      ]
+    }
+  ]
+}
