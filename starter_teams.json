@@ -22,7 +22,7 @@
       "archetype": "Goodstuffs",
       "difficulty": "Intermediate",
       "description": "Mega Delphox sweeps with Nasty Plot + Magic Guard. Kingambit and Garchomp provide physical pressure. Meowscarada with Choice Scarf + Trick disrupts opponents. Corviknight walls with Iron Defense + Body Press + Roost. Clefable supports with Wish and Calm Mind.",
-      "description_es": "Mega Delphox barre con Maquinación + Muro Mágico. Kingambit y Garchomp dan presión física. Meowscarada con Pañuelo Elegido + Truco desestabiliza rivales. Corviknight tanquea con Defensa Férrea + Plancha Corporal + Respiro. Clefable da soporte con Deseo y Paz Mental.",
+      "description_es": "Mega Delphox barre con Maquinación + Muro Mágico. Kingambit y Garchomp dan presión física. Meowscarada con Pañuelo Eleccion + Truco desestabiliza rivales. Corviknight tanquea con Defensa Férrea + Plancha Corporal + Respiro. Clefable da soporte con Deseo y Paz Mental.",
       "pokemon": [
         {"name":"Kingambit","item":"Black Glasses","ability":"Supreme Overlord","nature":"Adamant","moves":["Swords Dance","Kowtow Cleave","Iron Head","Sucker Punch"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}},
         {"name":"Garchomp","item":"Soft Sand","ability":"Sand Veil","nature":"Jolly","moves":["Scale Shot","Earthquake","Iron Head","Swords Dance"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}},
