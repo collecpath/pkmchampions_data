@@ -120,7 +120,6 @@
 "Palafin":{"hp":100,"atk":70,"def":72,"spa":53,"spd":62,"spe":100,"types":["Water"],"ability":"Zero to Hero","moves":["Jet Punch","Flip Turn","Protect","Helping Hand"],"item":"Mystic Water"},
 "Pangoro":{"hp":95,"atk":124,"def":78,"spa":69,"spd":71,"spe":58,"types":["Fighting","Dark"],"ability":"Iron Fist","moves":["Close Combat","Knock Off","Protect","Swords Dance"],"item":"Black Glasses"},
 "Passimian":{"hp":100,"atk":120,"def":90,"spa":40,"spd":60,"spe":80,"types":["Fighting"],"ability":"Defiant","moves":["Close Combat","Rock Slide","U-turn","Protect"],"item":"Black Belt"},
-"Pawmot":{"hp":70,"atk":115,"def":70,"spa":70,"spd":60,"spe":105,"types":["Electric","Fighting"],"ability":"Iron Fist","moves":["Close Combat","Wild Charge","Fake Out","Protect"],"item":"Focus Sash"},
 "Pelipper":{"hp":60,"atk":50,"def":100,"spa":95,"spd":70,"spe":65,"types":["Water","Flying"],"ability":"Drizzle","moves":["Weather Ball","Hurricane","Tailwind","Protect"],"item":"Mystic Water"},
 "Pidgeot":{"hp":83,"atk":80,"def":75,"spa":70,"spd":70,"spe":101,"types":["Normal","Flying"],"ability":"Keen Eye","moves":["Brave Bird","Hurricane","Protect","Tailwind"],"item":"Sharp Beak","hasMega":true,"mega":{"hp":83,"atk":80,"def":80,"spa":135,"spd":80,"spe":121,"types":["Normal","Flying"],"ability":"No Guard"}},
 "Pikachu":{"hp":35,"atk":55,"def":40,"spa":50,"spd":50,"spe":90,"types":["Electric"],"ability":"Static","moves":["Fake Out","Volt Tackle","Protect","Thunder Wave"],"item":"Light Ball"},
