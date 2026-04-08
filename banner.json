@@ -1,6 +1,6 @@
 {
   "active": true,
-  "type": "warning",
-  "en": "⚠️ Pokémon Champions launches April 8th. All data (stats, moves, abilities) is preliminary and based on leaks & trailers. We'll update everything on launch day!",
-  "es": "⚠️ Pokémon Champions se lanza el 8 de abril. Todos los datos (stats, movimientos, habilidades) son preliminares y basados en filtraciones y tráilers. ¡Actualizaremos todo el día del lanzamiento!"
+  "type": "info",
+  "en": "✅ The list of Pokémon, new items, abilities, and predefined sets have been updated to match the launch roster. Next up: updating move stats and balance changes from the live game.",
+  "es": "✅ La lista de Pokémon, nuevos objetos, habilidades y sets predefinidos han sido actualizados para coincidir con el roster de lanzamiento. Próximo paso: actualizar stats de movimientos y cambios de balance del juego en vivo."
 }
