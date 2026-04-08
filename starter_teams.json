@@ -49,22 +49,6 @@
       ]
     },
     {
-  "id": "sand-balance",
-  "name": "Sand Balance",
-  "archetype": "Sand",
-  "difficulty": "Intermediate",
-  "description": "Mega Tyranitar sets sand and boosts with Dragon Dance while Chesnaught walls physical threats with Bulletproof and Spiky Shield. Incineroar provides Intimidate cycling and pivot support. Garchomp adds a second Ground threat with Choice Scarf speed. Rotom-Wash spreads Will-O-Wisp and handles Water types. Aegislash abuses Stance Change with Wide Guard support.",
-  "description_es": "Mega Tyranitar activa la arena y potencia con Danza Dragón mientras Chesnaught mura amenazas físicas con Antibalas y Barrera Espinosa. Incineroar aporta ciclo de Intimidación y pivoteo. Garchomp añade una segunda amenaza Tierra con Pañuelo Elección. Rotom-Wash reparte Fuego Fatuo y maneja tipos Agua. Aegislash aprovecha Cambio Táctico con soporte de Vasta Guardia.",
-  "pokemon": [
-    {"name":"Chesnaught","item":"Chesnaughtite","ability":"Bulletproof","nature":"Impish","moves":["Wood Hammer","Body Press","Iron Defense","Spiky Shield"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":0,"spe":2}},
-    {"name":"Tyranitar","item":"Tyranitarite","ability":"Sand Stream","nature":"Adamant","moves":["Avalanche","Crunch","Dragon Dance","Protect"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}},
-    {"name":"Incineroar","item":"Aguav Berry","ability":"Intimidate","nature":"Careful","moves":["Fake Out","Flare Blitz","Darkest Lariat","Parting Shot"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}},
-    {"name":"Rotom-Wash","item":"Sitrus Berry","ability":"Levitate","nature":"Modest","moves":["Hydro Pump","Thunderbolt","Will-O-Wisp","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":32,"spd":2,"spe":0}},
-    {"name":"Garchomp","item":"Choice Scarf","ability":"Rough Skin","nature":"Jolly","moves":["Earthquake","Dragon Claw","Avalanche","Stomping Tantrum"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}},
-    {"name":"Aegislash","item":"Leftovers","ability":"Stance Change","nature":"Quiet","moves":["Shadow Ball","Flash Cannon","Wide Guard","King's Shield"],"sp":{"hp":32,"atk":0,"def":0,"spa":32,"spd":2,"spe":0}}
-  ]
-},
-    {
       "id": "sun-charizard",
       "name": "Sun Charizard Y",
       "archetype": "Sun",
