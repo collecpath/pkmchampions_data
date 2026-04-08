@@ -67,7 +67,8 @@
       {"name":"Spell Tag Support","item":"Spell Tag","ability":"Frisk","nature":"Adamant","moves":["Shadow Claw","Shadow Sneak","Will-O-Wisp","Protect"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}}
     ],
     "Basculegion": [
-      {"name":"Swift Swim Attacker","item":"Mystic Water","ability":"Swift Swim","nature":"Adamant","moves":["Wave Crash","Shadow Claw","Aqua Jet","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
+    {"name":"Rain Sweeper","item":"Mystic Water","ability":"Swift Swim","nature":"Adamant","moves":["Wave Crash","Shadow Claw","Aqua Jet","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}},
+    {"name":"Last Respects Nuke","item":"Mystic Water","ability":"Swift Swim","nature":"Adamant","moves":["Last Respects","Wave Crash","Aqua Jet","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
     ],
     "Bastiodon": [
       {"name":"TR Wall","item":"Leftovers","ability":"Sturdy","nature":"Brave","moves":["Body Press","Iron Head","Protect","Trick Room"],"sp":{"hp":32,"atk":0,"def":2,"spa":0,"spd":32,"spe":0}}
@@ -233,6 +234,7 @@
     ],
     "Gengar": [
       {"name":"Mega Shadow Tag","item":"Gengarite","ability":"Shadow Tag","nature":"Timid","moves":["Shadow Ball","Sludge Bomb","Protect","Trick Room"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+      {"name":"Mega Perish Trap","item":"Gengarite","ability":"Shadow Tag","nature":"Timid","moves":["Shadow Ball","Disable","Protect","Perish Song"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
       {"name":"Focus Sash Lead","item":"Focus Sash","ability":"Cursed Body","nature":"Timid","moves":["Shadow Ball","Sludge Bomb","Protect","Trick Room"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
     ],
     "Glalie": [
@@ -294,8 +296,9 @@
     "Hydreigon": [
       {"name":"Black Glasses Attacker","item":"Black Glasses","ability":"Levitate","nature":"Timid","moves":["Dark Pulse","Draco Meteor","Protect","Flash Cannon"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
     ],
-    "Incineroar": [
-      {"name":"Standard Support","item":"Sitrus Berry","ability":"Intimidate","nature":"Careful","moves":["Fake Out","Darkest Lariat","Flare Blitz","Parting Shot"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}}
+   "Incineroar": [
+      {"name":"Standard Support","item":"Sitrus Berry","ability":"Intimidate","nature":"Careful","moves":["Fake Out","Darkest Lariat","Flare Blitz","Parting Shot"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}},
+      {"name":"Throat Chop Pivot","item":"Sitrus Berry","ability":"Intimidate","nature":"Careful","moves":["Fake Out","Parting Shot","Throat Chop","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}}
     ],
     "Infernape": [
       {"name":"Focus Sash Lead","item":"Focus Sash","ability":"Iron Fist","nature":"Jolly","moves":["Close Combat","Flare Blitz","Fake Out","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
@@ -308,7 +311,8 @@
       {"name":"Silk Scarf Support","item":"Silk Scarf","ability":"Scrappy","nature":"Jolly","moves":["Fake Out","Sucker Punch","Close Combat","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
     ],
     "Kingambit": [
-      {"name":"Black Glasses Attacker","item":"Black Glasses","ability":"Defiant","nature":"Brave","moves":["Sucker Punch","Iron Head","Kowtow Cleave","Protect"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}}
+      {"name":"Black Glasses Attacker","item":"Black Glasses","ability":"Defiant","nature":"Brave","moves":["Sucker Punch","Iron Head","Kowtow Cleave","Protect"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}},
+      {"name":"Swords Dance Setup","item":"Safety Goggles","ability":"Defiant","nature":"Adamant","moves":["Kowtow Cleave","Sucker Punch","Swords Dance","Protect"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}}
     ],
     "Kleavor": [
       {"name":"Sharpness Attacker","item":"Hard Stone","ability":"Sharpness","nature":"Jolly","moves":["Close Combat","X-Scissor","Rock Slide","Protect"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
@@ -426,7 +430,8 @@
       {"name":"Mega Aerilate","item":"Pinsirite","ability":"Aerilate","nature":"Jolly","moves":["Close Combat","Return","Protect","Swords Dance"],"sp":{"hp":0,"atk":32,"def":0,"spa":0,"spd":2,"spe":32}}
     ],
     "Politoed": [
-      {"name":"Rain Support","item":"Sitrus Berry","ability":"Drizzle","nature":"Bold","moves":["Hydro Pump","Ice Beam","Helping Hand","Protect"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}}
+      {"name":"Rain Support","item":"Sitrus Berry","ability":"Drizzle","nature":"Bold","moves":["Hydro Pump","Ice Beam","Helping Hand","Protect"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}},
+      {"name":"Perish Trap","item":"Leftovers","ability":"Drizzle","nature":"Bold","moves":["Weather Ball","Encore","Protect","Perish Song"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}}
     ],
     "Polteageist": [
       {"name":"Shell Smash Sweeper","item":"Focus Sash","ability":"Weak Armor","nature":"Modest","moves":["Shadow Ball","Giga Drain","Shell Smash","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
@@ -596,7 +601,8 @@
       {"name":"Sun Sweeper","item":"Miracle Seed","ability":"Chlorophyll","nature":"Modest","moves":["Leaf Storm","Sludge Bomb","Sleep Powder","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
     ],
     "Vivillon": [
-      {"name":"Compound Eyes Sleep","item":"Focus Sash","ability":"Compound Eyes","nature":"Timid","moves":["Sleep Powder","Hurricane","Protect","Quiver Dance"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
+      {"name":"Compound Eyes Sleep","item":"Focus Sash","ability":"Compound Eyes","nature":"Timid","moves":["Sleep Powder","Hurricane","Protect","Quiver Dance"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}},
+      {"name":"Rage Powder Redirect","item":"Focus Band","ability":"Compound Eyes","nature":"Bold","moves":["Sleep Powder","Hurricane","Rage Powder","Protect"],"sp":{"hp":32,"atk":0,"def":32,"spa":0,"spd":2,"spe":0}}
     ],
     "Volcarona": [
       {"name":"Quiver Dance Sweeper","item":"Charcoal","ability":"Flame Body","nature":"Timid","moves":["Heat Wave","Bug Buzz","Quiver Dance","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
