@@ -460,6 +460,26 @@
     "Rotom": [
       {"name":"Sitrus Berry Pivot","item":"Sitrus Berry","ability":"Levitate","nature":"Timid","moves":["Thunderbolt","Shadow Ball","Protect","Thunder Wave"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
     ],
+    "Rotom-Wash": [
+      {"name":"Bulky Pivot","item":"Sitrus Berry","ability":"Levitate","nature":"Calm","moves":["Hydro Pump","Thunderbolt","Will-O-Wisp","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}},
+      {"name":"Offensive Pivot","item":"Sitrus Berry","ability":"Levitate","nature":"Modest","moves":["Hydro Pump","Thunderbolt","Volt Switch","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":32,"spd":2,"spe":0}}
+    ],
+    "Rotom-Heat": [
+      {"name":"Bulky Will-O","item":"Sitrus Berry","ability":"Levitate","nature":"Calm","moves":["Overheat","Thunderbolt","Will-O-Wisp","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}},
+      {"name":"Choice Scarf","item":"Choice Scarf","ability":"Levitate","nature":"Timid","moves":["Overheat","Thunderbolt","Volt Switch","Trick"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
+    ],
+    "Rotom-Mow": [
+      {"name":"Bulky Support","item":"Sitrus Berry","ability":"Levitate","nature":"Calm","moves":["Leaf Storm","Thunderbolt","Will-O-Wisp","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}},
+      {"name":"Offensive","item":"Miracle Seed","ability":"Levitate","nature":"Modest","moves":["Leaf Storm","Thunderbolt","Volt Switch","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":32,"spd":2,"spe":0}}
+    ],
+    "Rotom-Frost": [
+      {"name":"Snow Attacker","item":"Never-Melt Ice","ability":"Levitate","nature":"Modest","moves":["Blizzard","Thunderbolt","Will-O-Wisp","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":32,"spd":2,"spe":0}},
+      {"name":"Bulky Support","item":"Sitrus Berry","ability":"Levitate","nature":"Calm","moves":["Blizzard","Thunderbolt","Will-O-Wisp","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}}
+    ],
+    "Rotom-Fan": [
+      {"name":"Bulky Pivot","item":"Sitrus Berry","ability":"Levitate","nature":"Calm","moves":["Air Slash","Thunderbolt","Will-O-Wisp","Protect"],"sp":{"hp":32,"atk":0,"def":0,"spa":0,"spd":32,"spe":2}},
+      {"name":"Offensive","item":"Sharp Beak","ability":"Levitate","nature":"Timid","moves":["Air Slash","Thunderbolt","Volt Switch","Protect"],"sp":{"hp":0,"atk":0,"def":0,"spa":32,"spd":2,"spe":32}}
+    ],
     "Runerigus": [
       {"name":"TR Tank","item":"Leftovers","ability":"Wandering Spirit","nature":"Brave","moves":["Earthquake","Shadow Claw","Protect","Trick Room"],"sp":{"hp":32,"atk":32,"def":2,"spa":0,"spd":0,"spe":0}}
     ],
