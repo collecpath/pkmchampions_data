@@ -1,6 +1,6 @@
 {
   "active": true,
-  "type": "info",
-  "en": "✅ The list of Pokémon, new items, abilities, and predefined sets have been updated to match the launch roster. Next up: updating move stats and balance changes from the live game.",
-  "es": "✅ La lista de Pokémon, nuevos objetos, habilidades y sets predefinidos han sido actualizados para coincidir con el roster de lanzamiento. Próximo paso: actualizar stats de movimientos y cambios de balance del juego en vivo."
+  "type": "success",
+  "en": "✅ Move stats and balance changes are now live! All power buffs, accuracy changes, and effect nerfs from Champions are applied. Rotom forms, Mega sprites, and starter teams also updated.",
+  "es": "✅ ¡Los stats de movimientos y cambios de balance están actualizados! Todos los buffs de poder, cambios de precisión y nerfs de efectos de Champions están aplicados. Formas de Rotom, sprites Mega y equipos iniciales también actualizados."
 }
