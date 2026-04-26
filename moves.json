@@ -326,5 +326,7 @@
     "Smack Down":{"power":50,"type":"Rock","category":"Physical","accuracy":100,"effect":"Grounds Flying-types and Levitate."},
     "String Shot":{"power":0,"type":"Bug","category":"Status","accuracy":95,"effect":"-2 Spe. Hits both.","isSpread":true},
     "Thunder Fang":{"power":65,"type":"Electric","category":"Physical","accuracy":95,"effect":"10% paralysis. 10% flinch."},
+    "Draining Kiss":{"power":50,"type":"Fairy","category":"Special","accuracy":100,"effect":"Heals 75% of damage dealt."},
+    "Light of Ruin":{"power":140,"type":"Fairy","category":"Special","accuracy":90,"effect":"1/2 recoil."},
   }
 }
