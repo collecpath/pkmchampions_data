@@ -86,7 +86,7 @@
     "Focus Blast":{"power":120,"type":"Fighting","category":"Special","accuracy":70,"effect":"10% lower SpD."},
     "Follow Me":{"power":0,"type":"Normal","category":"Status","accuracy":100,"effect":"+2 priority. Redirects moves to user."},
     "Foul Play":{"power":95,"type":"Dark","category":"Physical","accuracy":100,"effect":"Uses target's Atk stat."},
-    "Freeze-Dry":{"power":70,"type":"Ice","category":"Special","accuracy":100,"effect":"10% freeze. Super effective vs Water."},
+    "Freeze-Dry":{"power":70,"type":"Ice","category":"Special","accuracy":100,"effect":"Super effective vs Water."},
     "Future Sight":{"power":120,"type":"Psychic","category":"Special","accuracy":100,"effect":"Hits 2 turns later."},
     "Giga Drain":{"power":75,"type":"Grass","category":"Special","accuracy":100,"effect":"Heals 50%."},
     "Glare":{"power":0,"type":"Normal","category":"Status","accuracy":100,"effect":"Paralyzes."},
